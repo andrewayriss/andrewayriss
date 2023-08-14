@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hello and welcome!
 
-<!--
-**andrewayriss/andrewayriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Andrew Ayriss a keen Software developer with over 20 years of experience.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: C#
+- **Frameworks**: .NET
+- **Databases**: MSSQL, CosmosDB
+- **Agile Practices**: Scrum, Kanban
+- **Project Management Tools**: Azure DevOps
+- **Version Control**: GitHub / Azure DevOps
+
+### 💼 Professional Experience
+
+#### Next Plc - Lead Developer 
+
+
+### 🚀 I am currently working on
+
+**Trackday website**
+Playing around with structuring Front end and APIs to produce a Trackday website.
+
+**Temperature monitor**
+I work in a conservatory on the back of my house.  In the summer it is far too hot and in the winter far too cold.  I frequently get asked what temperature it is in here.  This is a small project to monitor the temperature in real time.
+
+### 🌱 Currently Learning
+
+- ReactJs / NextJs
+
+### 📬 How to reach me
+
+[LinkedIn](https://www.linkedin.com/in/andrewayriss/) - Andrew Ayriss
