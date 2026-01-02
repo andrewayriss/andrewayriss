@@ -13,7 +13,7 @@ I am Andrew Ayriss a keen Software developer with over 20 years of experience.
 
 ### 💼 Professional Experience
 
-#### Next Plc - Lead Developer 
+#### Iamproperty - Engineering manager 
 
 
 ### 🚀 I am currently working on
